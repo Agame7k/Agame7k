@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on QCL+ api's to integrate with Razer Chrom's api <br>🌱 I’m currently learning C++<br>💬 Ask me about Robotics
+🔭 I’m currently working on QCL+ api's to integrate with a keyboard <br>🌱 I’m currently learning C++<br>💬 Ask me about Robotics
 
 
 # 💻 Tech Stack:
