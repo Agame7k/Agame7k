@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on QCL+ api's to integrate with a keyboard ![here](https://github.com/Agame7k/QlcKeyboard)<br>🌱 I’m currently learning C++<br>💬 Ask me about Robotics
+🔭 I’m currently working on a show for my local play's lights [here!](https://github.com/Agame7k/QLCTLMJr)<br>🌱 I’m currently learning C++<br>💬 Ask me about Robotics
 
 
 # 💻 Tech Stack:
